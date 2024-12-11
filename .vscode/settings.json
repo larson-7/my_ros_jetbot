@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/Users/jordanlarson/engineering/ROS/jetbot/src/jetbot",
+    "cmake.configureSettings": {
+        "CMAKE_PREFIX_PATH": "/Users/jordanlarson/miniforge3/envs/ros_env"
+    }
+}

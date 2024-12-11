@@ -1,0 +1,8 @@
+source;share/jetbot/hook/cmake_prefix_path.ps1
+source;share/jetbot/hook/cmake_prefix_path.dsv
+source;share/jetbot/hook/cmake_prefix_path.sh
+source;share/jetbot/local_setup.bash
+source;share/jetbot/local_setup.dsv
+source;share/jetbot/local_setup.ps1
+source;share/jetbot/local_setup.sh
+source;share/jetbot/local_setup.zsh
